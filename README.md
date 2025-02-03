@@ -1,6 +1,6 @@
  Hi, I’m @Abdooldev
  I’m interested in web development...
- I’m currently learning "The foundation in theodinproject.
+ I’m currently learning "The foundation in theodinproject".
  
 
 
